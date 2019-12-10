@@ -12,6 +12,7 @@
 ## Project Objective: 
 We will be using data that includes age, weight, gender, and various vitals collected from **70,000 users** to test our hypothesis on the correlation of **lifestyle choices**, **blood indices**, and **body indicators**. 
 ![](images/2006965.jpg)
+
 **Looking specifically at**:
 1. Does **alcohol** consumption lead to greater risk of heart attack?
 2. Does **smoking** lead to greater risk of heart attack?
